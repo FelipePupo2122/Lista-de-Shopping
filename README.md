@@ -10,3 +10,4 @@ Compose-ShoppingList é um projeto dque apresenta uma maneira de implementar com
 * Excluir produtos
 
 Por Felipe Andonini
+*Projeto realizado totalmente em inglês.
